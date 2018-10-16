@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import wx # GUI Module
 import sys # For timers
 
@@ -9,3 +10,7 @@ if __name__ == "__main__":  #Will only execute if its the file being executed (c
 
 if __name__ != "__main__":
     print("idk")
+=======
+Kill me i wanna die
+d12
+>>>>>>> parent of d5e3908... Update test.py
