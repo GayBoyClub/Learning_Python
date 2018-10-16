@@ -6,6 +6,3 @@ if __name__ == "__main__":  #Will only execute if its the file being executed (c
     while True:
         print("hello world")
         sys.timers
-
-if __name__ != "__main__":
-    print("idk")
